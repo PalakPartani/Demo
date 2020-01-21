@@ -2,3 +2,4 @@
 Hello world !This is FIRST DEMO of git practice.
 This is remote addition in txt file.
 Created feature branch.
+Adding text on local feature branch
