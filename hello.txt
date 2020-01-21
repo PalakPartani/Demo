@@ -1,2 +1,2 @@
-Hello world !This is first demo of git practice.
+Hello world !This is FIRST DEMO of git practice.
 This is remote addition in txt file.
